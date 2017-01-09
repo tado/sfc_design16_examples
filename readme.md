@@ -2,11 +2,11 @@
 
 SFCで開講された、[2016年度「デザインとプログラミング」の講義](http://yoppa.org/sfc_design16)で使用したProcessingのコードサンプルです。
 
-イントロダクション – Creative Codingとは? Processsing について
+[イントロダクション – Creative Codingとは? Processsing について](http://yoppa.org/sfc_design16/7139.html)
 
 - サンプルなし
 
-[かたちとコード – Processingで図形を描くには?](http://yoppa.org/sfc_design16/7139.html)
+[かたちとコード – Processingで図形を描くには?](http://yoppa.org/sfc_design16/7168.html)
 
 - [01.基本図形を描く](./w02_01/)
 - [02.色の設定](./w02_02/)
@@ -15,7 +15,7 @@ SFCで開講された、[2016年度「デザインとプログラミング」の
 - [05.クイズ1](./w02_05/)
 - [06.クイズ2](./w02_06/)
 
-[反復と乱数](http://yoppa.org/sfc_design16/7168.html)
+[反復と乱数](http://yoppa.org/sfc_design16/7180.html)
 
 - [01.四角形](./w03_01/)
 - [02.変数の使用](./w03_02/)
