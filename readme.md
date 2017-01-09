@@ -85,9 +85,14 @@ Processingで画像データを扱う – 画像の分析・再合成
 
 Processing Libraries 1 : ControlP5 – GUIを作成する
 
-
+- [01.立方体GUIなし](./w09_01/)
+- [02.GUI:スライダー](./w09_02/)
+- [03.GUI:2Dスライダー](./w09_03/)
+- [04.GUI:カラーサークル、トグルボタン](./w09_04/)
 
 Processing Libraries 2 : Sound – 音の再生と視覚化
+
+
 
 Processing Libraries 3 : oscP5 – OSCによるアプリケーション間通信
 
